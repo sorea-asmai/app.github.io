@@ -1,0 +1,2 @@
+ import "./HeroImgStyles.css";
+ 
