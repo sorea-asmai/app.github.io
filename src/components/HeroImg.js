@@ -12,7 +12,7 @@ import {Link} from "react-router-dom";
         </div>
         <div className="content" >
             <p>
-                PORTFOLIO OF
+                Welcome, to 
             </p>
             <h1>Sorea Asmai</h1>
             <div>

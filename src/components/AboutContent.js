@@ -11,7 +11,10 @@ const AboutContent = () => {
     <div className="about">
         <div className="left">
             <h1>Who Am I?</h1>
-            <p>Aspiring Front-End Developer</p>
+            <p>Dedicated, quick learning, & cooperative student who actively participates in community-oriented organizations.</p>
+            <p>Excels in problem-solving, mediating disputes, & showing leadership to encourage involvement.</p>
+            <p>Able to work independently with minimum supervision but also likes to take part in group interactions.</p>
+            <p>Enjoys teaching, learning user experience & software development concepts, giving back, making a positive impact, and meeting new people.</p>
             <Link to="/contact">
                 <button className="btn">Contact</button>
             </Link>

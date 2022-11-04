@@ -1,4 +1,5 @@
 import "./NavbarStyles.css"
+import logo from "../assests/Logo.png"
 
 import React, {useState} from 'react'
 import { Link } from "react-router-dom"
@@ -22,7 +23,7 @@ const Navbar = () => {
   return (
     <div className ={color ? "header header-bg" : "header"}> 
     <Link to = "/">
-        <h1>Portfolio</h1> 
+        <img src= {logo} alt="logo" />
     </Link>
     <ul className = {click ? "nav-menu active" : "nav-menu"}>
         <li>

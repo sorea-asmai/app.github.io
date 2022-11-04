@@ -5,6 +5,7 @@ import React from 'react';
 const Form = () => {
   return (
     <div className="form">
+      <p>This page is under construction. Please email me via soreaasmai@gmail.com</p>
         <form>
             <label>Your Name</label>
             <input type="text"></input>
