@@ -7,7 +7,7 @@ import Contact from "./routes/Contact"
 import Design from "./routes/Design";
 import { Route, Routes} from "react-router-dom"
 import Resume from "./routes/Resume";
-import handleSubmit from "./firebase_setup/handlesubmit"
+//import handleSubmit from "./firebase_setup/handlesubmit"
   
 function App() {
   const dataRef = useRef()
